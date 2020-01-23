@@ -7,9 +7,6 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
-  "scripts": {
-    "start": "node Server.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andipalmur/podcasting_simulator.git"
