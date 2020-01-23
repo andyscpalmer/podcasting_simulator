@@ -1,0 +1,23 @@
+{
+  "name": "pod-sim",
+  "version": "1.0.0",
+  "description": "podcasting simulator",
+  "main": "game.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andipalmur/podcasting_simulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andipalmur/podcasting_simulator/issues"
+  },
+  "homepage": "https://github.com/andipalmur/podcasting_simulator#readme"
+}
